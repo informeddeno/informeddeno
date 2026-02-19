@@ -18,11 +18,11 @@ for front end; HTML5, CSS3, Java Script, REACT, Next.js, Tailwind CSS.
 
 for backend; Node.js, Express.js, MondoDB, RestAPIs
 
-for tools; Git, Github, VSCode, Linux, Command Line. 
+for tools; Git, Github, VSCode, Linux Command Line, Markdown, Python, Pycharm.
 
 ## Current Projects
 
-My expected project is learning AI via THE IYF WE CAN ACADEMY- AI Class SSN-10. Links to be posted here as the course progresses.
+My expected project is upcoming soon while learning AI via THE IYF WE CAN ACADEMY- AI Class SSN-10. Links to be posted here as the course progresses, stay tuned.
 
 ## How to Reach Me
 
