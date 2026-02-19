@@ -18,8 +18,6 @@
 # image
 ![programming]([https://images.unsplash.com/photo-1528901166007-3784c7dd3653?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNvZnR3YXJlJTIwZW5naW5lZXJ8ZW58MHx8MHx8fDA%3D)]
 
-<img width="700" height="467" alt="image" src="https://github.com/user-attachments/assets/d997ae38-3a70-4e55-ad43-e0cf6a97d8c9" />
-
 # Lists
 
 ## Unordered list
@@ -50,6 +48,7 @@
 
 # Code Blocks
 `print("Hello, world! I am finally learning the Markdown, the lightweight formatting language used all over github")`
+
 ```python
 print("Hello, world!")
 print("I am finally learning Markdown, the lightweight formatting language used all over github")
@@ -76,4 +75,4 @@ Please feel free to follow my learning progress via my github: [my github](https
 | Python  | Programming |Coding    |
 | Pycharm | process Data|AI data   |
 
-*Thank You for reading*
+*Thank You for reading!*
