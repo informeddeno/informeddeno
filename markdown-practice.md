@@ -60,11 +60,14 @@ print("I am finally learning Markdown, the lightweight formatting language used 
 # About Me:
 ## My name is Dennis Sila Muia, a full stack software developer
 >*my current area of study and focus is in AI  at the We Can Academy.*
-Please feel free to follow my learning progress via my github: [Link text](https://github.com/informeddeno)
-###The course outline is as below:
+
+Please feel free to follow my learning progress via my github: [my github](https://github.com/informeddeno)
+### The course outline is as below:
 - github
   - markdown
+    
 -python
+
 -pycharm
 
 *The following table shows the tools used, their function and the role in the course:*
