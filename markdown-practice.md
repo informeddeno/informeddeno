@@ -65,8 +65,8 @@ Please feel free to follow my learning progress via my github: [my github](https
 ### The course outline is as below:
 - github
   - markdown
--python
--pycharm
+- python
+- pycharm
 
 *The following table shows the tools used, their function and the role in the course:*
 | Tool    | Purpose     | Role     |
