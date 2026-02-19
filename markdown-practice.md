@@ -4,9 +4,11 @@
 
 # Text formatting
 **This is my bold sentence**
+
 *This is a sentence written in italics*
+
 ## inline code:
-`print ("Hello, world)`
+`print("Hello, world)`
 
 # Links
 [my github](https://github.com/informeddeno)
