@@ -22,7 +22,7 @@ for tools; Git, Github, VSCode, Linux, Command Line.
 
 ## Current Projects
 
-My expected project is leaning AI via THE IYF WE CAN ACADEMY- AI Class SSN-10. Links to be posted here as the course progresses.
+My expected project is learning AI via THE IYF WE CAN ACADEMY- AI Class SSN-10. Links to be posted here as the course progresses.
 
 ## How to Reach Me
 
